@@ -1,8 +1,7 @@
 
 [![Build Status](https://dev.azure.com/yorkucan-outlook/Space%20Game%20-%20web%20-old/_apis/build/status/yorklyq.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/yorkucan-outlook/Space%20Game%20-%20web%20-old/_build/latest?definitionId=5&branchName=master)
 
-
-[![Build Status](https://dev.azure.com/yorkucan-outlook/Space%20Game%20-%20web%20-old/_apis/build/status/yorklyq.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/yorkucan-outlook/Space%20Game%20-%20web%20-old/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/yorkucan/york-azdevops-1/_apis/build/status/yorklyq.atlantis-example?branchName=master)](https://dev.azure.com/yorkucan/york-azdevops-1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
